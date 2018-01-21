@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarsenseTaskTwo</string>
+    <string name="title_activity_maps">CarsenseTaskTwo</string>
+    <string name="google_direction_api">AIzaSyC2eFDSGrWVqQqma1F7UnQjEDO8nMvI010</string>
+</resources>
